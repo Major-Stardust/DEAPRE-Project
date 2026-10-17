@@ -1,0 +1,20 @@
+# Core runtime
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+astral>=3.2
+
+# Audio analysis
+librosa>=0.10.0
+soundfile>=0.12.0
+sounddevice>=0.4.7
+
+# Air sensor / serial
+pyserial>=3.5.0
+
+# BirdNET
+birdnetlib>=0.1.0
+
+# Optional: project tooling
+python-dotenv>=1.0.0

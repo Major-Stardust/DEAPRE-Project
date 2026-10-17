@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.wav
+*.mp3
+*.log
+.env
+.vscode/
+data/
+results/
+*.csv
